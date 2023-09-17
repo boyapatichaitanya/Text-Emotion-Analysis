@@ -26,7 +26,7 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 
 #### Confusion Matrix (Prep):
 
-<img src = "https://github.com/boyapatichaitanya/Text-Emotion-Analysis/blob/master/images/ConfusionMatrixPrep.JPG" width="700">
+<img src = "https://github.com/boyapatichaitanya/Text-Emotion-Analysis/blob/main/images/ConfusionMatrixPrep.JPG" width="700">
 
 
 
